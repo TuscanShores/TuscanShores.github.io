@@ -45,12 +45,15 @@ body {
   display: block;
   content: "";
   position: absolute;
-  top: 24em;
-  height: calc(100% - 48em);
-  width: calc(100% - 50em);
-  border-top: 2px solid rgba(225, 225, 225, 0.2);
+  top: 22em;
+  height: calc(100% - 44em);
+  width: calc(100% - 45em);
+  /* border-top: 2px solid rgba(225, 225, 225, 0.2);
   border-left: 1px solid rgba(225, 225, 225, 0.1);
-  border-right: 1px solid rgba(225, 225, 225, 0.3);
+  border-right: 1px solid rgba(225, 225, 225, 0.3); */
+  border-top: 0px solid rgba(225, 225, 225, 0.2);
+  border-left: 0px solid rgba(225, 225, 225, 0.1);
+  border-right: 0px solid rgba(225, 225, 225, 0.3);
   z-index: 2;
 }
 .drop-shadow > span {
