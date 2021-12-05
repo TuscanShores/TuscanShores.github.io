@@ -1,2 +1,2 @@
 # TuscanShores.github.io
-Our website
+Our first website on GitHub.
